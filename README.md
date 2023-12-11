@@ -5,7 +5,7 @@
 
 😙 Hello World !! I'm SooMin
 ----
-I aim to be a full-stack developer who can raise utilization rate by 120% compared to the previous level!
+I aim to be a full-stack developer who can raise utilization rate by 120% compared to the previous level.
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⭐ stats </h2> <br> 
 
