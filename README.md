@@ -3,9 +3,9 @@
 
  ![Background_1](https://github.com/dalcheonroadhead/dalcheonroadhead/assets/102154788/cbd94a69-6e51-4df0-bc15-22b1b21da9e7)
 
-😙 안녕하세요 개발자 전수민 입니다.
+😙 Hello World !! I'm SooMin
 ----
-저는 서비스 이용률을 기존 대비 20퍼센트 이상 올릴 수 있는 풀 스택 개발자를 목표로 하고 있습니다.
+I aim to be a full-stack developer who can raise utilization rate by 120% compared to the previous level!
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⭐ stats </h2> <br> 
 
