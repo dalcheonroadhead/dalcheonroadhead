@@ -35,7 +35,7 @@
       </tr>  
       <tr>
        <td>Framework</td>
-       <td><img alt="Static Badge" src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=61DAFB"> <img alt="Static Badge" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF&labelColor=646CFF"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&labelColor=7952B3"></td>   
+       <td><img alt="Static Badge" src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=61DAFB"> <img alt="Static Badge" src="https://img.shields.io/badge/REACT NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=61DAFB"> <img alt="Static Badge" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF&labelColor=646CFF"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&labelColor=7952B3"></td>   
       </tr> 
       <tr>
       	<th rowspan="2">🌟 Infrastructure </th>
@@ -48,6 +48,7 @@
       </tr>  
     </tbody>
 </table>
+
 
 
 
