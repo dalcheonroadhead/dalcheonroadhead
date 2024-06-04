@@ -22,9 +22,7 @@
 | 🥇삼성 SW 아카데미 1학기 관통 프로젝트 경진대회 최우수상 | 삼성전자           | 2023.11.24 |
 | 🏅 SSAFY X 신한은행 해커톤 본선진출 (100팀 중 25팀 선발) | 삼성전자, 신한은행 | 2023.09.15 |
 
-
-
-
+<br/>
 
 
 
@@ -69,9 +67,7 @@
       </tr>  
     </tbody>
 </table>
-
-
-
+<br/>
 
 
 
@@ -86,9 +82,7 @@
 | WALK WALK          | 할아버지가 뛴 거리 수에 비례해서 용돈을 주는 블록체인 기반 전자상거래 서비스 | <img alt="Static Badge" src="https://img.shields.io/badge/backend%203-10439F"><img alt="Static Badge" src="https://img.shields.io/badge/frontend%203-C65BCF"> | <img alt="Static Badge" src="https://img.shields.io/badge/backend%201-10439F"><img alt="Static Badge" src="https://img.shields.io/badge/frontend%201-C65BCF"> | <a href="https://github.com/dalcheonroadhead/WALKWALK"><img alt="Static Badge" src="https://img.shields.io/badge/Link -10439F?style=flat&logo=GitHub"></a> | 2024.02.19~2024.04.05 | <img alt="Static Badge" src="https://img.shields.io/badge/COMPLETE-5BBCFF"> |
 | 울반               | NFC & Bluetooth 기반 오프라인 협업 장려 학급 관리 어플       | <img alt="Static Badge" src="https://img.shields.io/badge/backend%203-10439F"><img alt="Static Badge" src="https://img.shields.io/badge/mobile%203-F27BBD"> | <img alt="Static Badge" src="https://img.shields.io/badge/backend%201-10439F"><img alt="Static Badge" src="https://img.shields.io/badge/frontend%201-C65BCF"> | <a href="https://github.com/6QuizOnTheBlock/OurClass"><img alt="Static Badge" src="https://img.shields.io/badge/Link -10439F?style=flat&logo=GitHub"></a> | 2024.04.07~2024.05.20 | <img alt="Static Badge" src="https://img.shields.io/badge/COMPLETE-5BBCFF"> |
 
-
-
-
+<br/>
 
 
 
@@ -103,7 +97,7 @@
 | react-native-playground | 리액트 네이티브 예제 실습 or 연습                | <a href="https://github.com/dalcheonroadhead/react-native-playground"><img alt="Static Badge" src="https://img.shields.io/badge/Link -10439F?style=flat&logo=GitHub"></a> |
 | wit-pocket              | 졸업 프로젝트, SSAFY 프로젝트 아이디어, 꾀주머니 | <a href="https://github.com/dalcheonroadhead/wit-pocket"><img alt="Static Badge" src="https://img.shields.io/badge/Link -10439F?style=flat&logo=GitHub"></a> |
 
-
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=dalcheonroadhead&show_icons=true&theme=tokyonight" alt="dalcheonroadhead's GitHub stats" style="zoom: 67%;" />                                                             [<img src="http://mazassumnida.wtf/api/generate_badge?boj=wjsaos2081" alt="Solved.ac Profile" style="zoom: 75%;" />](https://solved.ac/wjsaos2081)
 
