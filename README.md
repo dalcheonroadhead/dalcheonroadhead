@@ -6,6 +6,12 @@
 - ✒️ I am studying ``Spring Security``, ``Redis Caching``, ``Spring Batch``  now.
 - 🛠️ Here is my <a href="https://dalcheonroadhead.tistory.com/"><img alt="Static Badge" src="https://img.shields.io/badge/tech_blog-000000?style=flat&logo=tistory"></a>.
 
+
+
+
+
+
+
 ### 🏆Honors and Rewards
 
 | Title                                                   | Hosted by          | Period     |
@@ -15,6 +21,10 @@
 | 🥈삼성 SW 아카데미 공통 프로젝트 경진대회 우수상         | 삼성전자           | 2024.02.16 |
 | 🥇삼성 SW 아카데미 1학기 관통 프로젝트 경진대회 최우수상 | 삼성전자           | 2023.11.24 |
 | 🏅 SSAFY X 신한은행 해커톤 본선진출 (100팀 중 25팀 선발) | 삼성전자, 신한은행 | 2023.09.15 |
+
+
+
+
 
 
 
@@ -61,6 +71,10 @@
 </table>
 
 
+
+
+
+
 ### 💡 Project
 
 | Subject            | Description                                                  | Member                                                       | Role                                                         | Links                                                        | Period                | State                                                        |
@@ -71,6 +85,10 @@
 | 채팅 토이 프로젝트 | socket으로 이미지 업로드가 가능한 Spring STOMP, React 기반 채팅 서비스 구현 | <img alt="Static Badge" src="https://img.shields.io/badge/backend%201-10439F"><img alt="Static Badge" src="https://img.shields.io/badge/frontend%201-C65BCF"> | <img alt="Static Badge" src="https://img.shields.io/badge/backend%201-10439F"><img alt="Static Badge" src="https://img.shields.io/badge/frontend%201-C65BCF"> | <a href="https://github.com/dalcheonroadhead/real-time-chat-server"><img alt="Static Badge" src="https://img.shields.io/badge/server Link -10439F?style=flat&logo=GitHub"></a><a href="https://github.com/dalcheonroadhead/real-time-chat-client"><img alt="Static Badge" src="https://img.shields.io/badge/client Link -C65BCF?style=flat&logo=GitHub"></a> | 2024.02.20~2024.03.15 | <img alt="Static Badge" src="https://img.shields.io/badge/COMPLETE-5BBCFF"> |
 | WALK WALK          | 할아버지가 뛴 거리 수에 비례해서 용돈을 주는 블록체인 기반 전자상거래 서비스 | <img alt="Static Badge" src="https://img.shields.io/badge/backend%203-10439F"><img alt="Static Badge" src="https://img.shields.io/badge/frontend%203-C65BCF"> | <img alt="Static Badge" src="https://img.shields.io/badge/backend%201-10439F"><img alt="Static Badge" src="https://img.shields.io/badge/frontend%201-C65BCF"> | <a href="https://github.com/dalcheonroadhead/WALKWALK"><img alt="Static Badge" src="https://img.shields.io/badge/Link -10439F?style=flat&logo=GitHub"></a> | 2024.02.19~2024.04.05 | <img alt="Static Badge" src="https://img.shields.io/badge/COMPLETE-5BBCFF"> |
 | 울반               | NFC & Bluetooth 기반 오프라인 협업 장려 학급 관리 어플       | <img alt="Static Badge" src="https://img.shields.io/badge/backend%203-10439F"><img alt="Static Badge" src="https://img.shields.io/badge/mobile%203-F27BBD"> | <img alt="Static Badge" src="https://img.shields.io/badge/backend%201-10439F"><img alt="Static Badge" src="https://img.shields.io/badge/frontend%201-C65BCF"> | <a href="https://github.com/6QuizOnTheBlock/OurClass"><img alt="Static Badge" src="https://img.shields.io/badge/Link -10439F?style=flat&logo=GitHub"></a> | 2024.04.07~2024.05.20 | <img alt="Static Badge" src="https://img.shields.io/badge/COMPLETE-5BBCFF"> |
+
+
+
+
 
 
 
