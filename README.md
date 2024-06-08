@@ -69,7 +69,7 @@
 
 
 
-### 💡 Project
+### 💡 Projects
 
 | Subject            | Description                                                  | Member                                                       | Role                                                         | Links                                                        | Period                | State                                                        |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- | ------------------------------------------------------------ |
@@ -84,12 +84,12 @@
 
 
 
-### 🗂️ Repository 
+### 🗂️ Repositories
 
 | Subject                 | Description                                      | Link                                                         |
 | ----------------------- | ------------------------------------------------ | ------------------------------------------------------------ |
 | What-I-study            | 중학생에게 설명할 수 있을 정도로 배운 내용 정리  | <a href="https://github.com/dalcheonroadhead/what-i-study"><img alt="Static Badge" src="https://img.shields.io/badge/Link -10439F?style=flat&logo=GitHub"></a> |
-| algo                    | folder about algorithm problems solved by me     | <a href="https://github.com/dalcheonroadhead/algo"><img alt="Static Badge" src="https://img.shields.io/badge/Link -10439F?style=flat&logo=GitHub"></a> |
+| algo <br/>codetree-TILs | folder about algorithm problems solved by me     | <a href="https://github.com/dalcheonroadhead/algo"><img alt="Static Badge" src="https://img.shields.io/badge/algo_Link -10439F?style=flat&logo=GitHub"></a> <br/><a href="https://github.com/dalcheonroadhead/codetree-TILs"><img alt="Static Badge" src="https://img.shields.io/badge/codetree_Link -10439F?style=flat&logo=GitHub"></a> |
 | spring-playground       | 스프링 예제 실습 or 연습                         | <a href="https://github.com/dalcheonroadhead/spring-playground"><img alt="Static Badge" src="https://img.shields.io/badge/Link -10439F?style=flat&logo=GitHub"></a> |
 | react-playground        | 리액트 예제 실습 or 연습                         | <a href="https://github.com/dalcheonroadhead/react-playground"><img alt="Static Badge" src="https://img.shields.io/badge/Link -10439F?style=flat&logo=GitHub"></a> |
 | react-native-playground | 리액트 네이티브 예제 실습 or 연습                | <a href="https://github.com/dalcheonroadhead/react-native-playground"><img alt="Static Badge" src="https://img.shields.io/badge/Link -10439F?style=flat&logo=GitHub"></a> |
@@ -97,5 +97,5 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dalcheonroadhead&show_icons=true&theme=tokyonight" alt="dalcheonroadhead's GitHub stats" style="zoom: 67%;" />                                                             [<img src="http://mazassumnida.wtf/api/generate_badge?boj=wjsaos2081" alt="Solved.ac Profile" style="zoom: 75%;" />](https://solved.ac/wjsaos2081)
+<img src="https://github-readme-stats.vercel.app/api?username=dalcheonroadhead&show_icons=true&theme=tokyonight" alt="dalcheonroadhead's GitHub stats" style="zoom: 65%;" />                                                             [<img src="http://mazassumnida.wtf/api/generate_badge?boj=wjsaos2081" alt="Solved.ac Profile" style="zoom: 75%;" />](https://solved.ac/wjsaos2081)
 
