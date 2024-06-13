@@ -99,3 +99,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=dalcheonroadhead&show_icons=true&theme=tokyonight" alt="dalcheonroadhead's GitHub stats" style="zoom: 65%;" />                                                             [<img src="http://mazassumnida.wtf/api/generate_badge?boj=wjsaos2081" alt="Solved.ac Profile" style="zoom: 75%;" />](https://solved.ac/wjsaos2081)
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdalcheonroadhead&count_bg=%23102C57&title_bg=%23102C57&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
