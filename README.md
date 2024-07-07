@@ -97,5 +97,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dalcheonroadhead&show_icons=true&theme=tokyonight" alt="dalcheonroadhead's GitHub stats" style="zoom: 65%;" />                                                             [<img src="http://mazassumnida.wtf/api/generate_badge?boj=wjsaos2081" alt="Solved.ac Profile" style="zoom: 75%;" />](https://solved.ac/wjsaos2081)
+| <img src="https://github-readme-stats.vercel.app/api?username=dalcheonroadhead&show_icons=true&theme=tokyonight" alt="dalcheonroadhead's GitHub stats"  /> | [<img src="http://mazassumnida.wtf/api/generate_badge?boj=wjsaos2081" alt="Solved.ac Profile"/>](https://solved.ac/wjsaos2081) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
