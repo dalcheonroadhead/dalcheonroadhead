@@ -12,5 +12,7 @@
   <img src="https://render.gitanimals.org/farms/dalcheonroadhead" width="1000" />
 </a>
 
+[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsaos2081" alt="Solved.ac Profile" width="1000"/>](https://solved.ac/wjsaos2081/)
+
 👋 Today's visitor : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdalcheonroadhead&count_bg=%23102C57&title_bg=%23102C57&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" width="150%"/></a>
 
