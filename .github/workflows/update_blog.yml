@@ -17,11 +17,14 @@ jobs:
         with:
           python-version: "3.10"
 
-      - name: Install feedparser
+      - name: Install dependencies
         run: pip install feedparser
 
-      - name: Run script
-        run: python generate_readme.py
+      - name: Generate SVG blog cards
+        run: python scripts/generate_svg_cards.py
+
+      - name: Update ReadMe
+        run: python scripts/update_readme.py
 
       - name: Commit and push if changed
         env:
