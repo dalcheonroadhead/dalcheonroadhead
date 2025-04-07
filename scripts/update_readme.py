@@ -1,8 +1,8 @@
 import os
-import feedparser
-from xml.sax.saxutils import escape
+from cairosvg import svg2png
 
 SVG_DIR = "svg_cards"
+PNG_DIR = "png_cards"
 README_PATH = "README.md"
 START_TAG = "<!-- BLOG-POST-START -->"
 END_TAG = "<!-- BLOG-POST-END -->"
@@ -10,18 +10,24 @@ END_TAG = "<!-- BLOG-POST-END -->"
 # GitHub Repository 이름 추출 (예: dalcheonroadhead/svg-blog)
 repo_name = os.environ.get("GITHUB_REPOSITORY", "dalcheonroadhead/svg-blog")
 
-# 티스토리 RSS 가져오기
-feed = feedparser.parse("https://dalcheonroadhead.tistory.com/rss")
-entries = feed.entries[:5]
+# PNG 카드 폴더 생성
+os.makedirs(PNG_DIR, exist_ok=True)
 
-# svg 이미지 태그로 변환 및 <a><img></a> 형태로 감싸서 삽입입
+# SVG → PNG 변환 및 README에 들어갈 <img> 라인 준비
 lines = []
-for i, entry in enumerate(entries):
-    title = escape(entry.title)
-    link = escape(entry.link)
-    svg_url = f"https://raw.githubusercontent.com/{repo_name}/main/{SVG_DIR}/card_{i+1}.svg"
-    lines.append(f'<a href="{link}" target="_blank"><img src="{svg_url}" width="600" height="200"/></a>')
+for filename in sorted(os.listdir(SVG_DIR)):
+    if filename.endswith(".svg"):
+        svg_path = os.path.join(SVG_DIR, filename)
+        png_filename = filename.replace(".svg", ".png")
+        png_path = os.path.join(PNG_DIR, png_filename)
 
+        # PNG로 변환 (cairosvg 필요)
+        with open(svg_path, "r", encoding="utf-8") as svg_file:
+            svg2png(bytestring=svg_file.read().encode("utf-8"), write_to=png_path)
+
+        # 이미지 URL 작성
+        png_url = f"https://raw.githubusercontent.com/{repo_name}/main/{PNG_DIR}/{png_filename}"
+        lines.append(f'<img src="{png_url}" width="600" height="200"/>')
 
 # README.md 내용 갱신
 with open(README_PATH, "r", encoding="utf-8") as f:
