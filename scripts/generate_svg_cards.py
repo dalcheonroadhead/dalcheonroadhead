@@ -10,7 +10,7 @@ CARD_WIDTH = 600
 
 SVG_TEMPLATE = """
 <svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
-    <image href="https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/Tistory_card_for_readMe.png" x="0" y="0" width="100%" height="100%" />
+    <image href="https://raw.githubusercontent.com/dalcheonroadhead/dalchoenroadhead/main/scripts/asset/tistory_background.png" x="0" y="0" width="100%" height="100%" />
     <text x="{x}24" y="40" font-size="14" font-weight="bold" fill="#FFF2CE" text-anchor="{anchor}">dalchoenroadhead.tistory.com</text>
     <text x="{x}24" y="80" font-size="18" font-weight="bold" fill="#FFF2CE" text-anchor="{anchor}">{title}</text>
     {tags_svg}
