@@ -1,8 +1,10 @@
-<img src='https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/header.png' width=100%/>
+<img src='https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/header_2.png' width=100%/>
+
+<h1 align='center'> 지나온 길 </h1>
 
 <img src = 'https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/career_3.png' width = 100%/>
 
-<h1 align='center'>📝 최근 블로그 포스팅 📝</h1>
+<h1 align='center'>📝 개발 일지 📝</h1>
 
 <!-- BLOG-POST-START -->
 <a href="https://dalcheonroadhead.tistory.com/632" target="_blank"><img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_1.svg" align="left" width="600" height="200"/></a><br><br>
