@@ -1,0 +1,19 @@
+
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+    <image href="https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/Tistory_card_for_readMe.png" x="0" y="0" width="100%" height="100%" />
+    <text x="24" y="40" font-size="14" font-weight="bold" fill="#FFF2CE" text-anchor="start">dalchoenroadhead.tistory.com</text>
+    <text x="24" y="80" font-size="22" font-weight="bold" fill="#FFF2CE" text-anchor="start">[네트워크] WEB-SOCKET 연결 과정에 대해 설명해주세요!</text>
+    <rect x="24" y="125" rx="8" ry="8" width="191" height="20" fill="#FFF2CE"/>
+    <text x="30" y="139" font-weight="bold" font-size="10" fill="#FF6969">CS &amp;amp; IT trend/네크워크</text>
+    <rect x="225" y="125" rx="8" ry="8" width="63" height="20" fill="#FFF2CE"/>
+    <text x="231" y="139" font-weight="bold" font-size="10" fill="#FF6969">CS 스터디</text>
+    <rect x="298" y="125" rx="8" ry="8" width="79" height="20" fill="#FFF2CE"/>
+    <text x="304" y="139" font-weight="bold" font-size="10" fill="#FF6969">HTTP 1.1</text>
+    <rect x="387" y="125" rx="8" ry="8" width="143" height="20" fill="#FFF2CE"/>
+    <text x="393" y="139" font-weight="bold" font-size="10" fill="#FF6969">web-socket 연결 과정</text>
+    <rect x="540" y="125" rx="8" ry="8" width="47" height="20" fill="#FFF2CE"/>
+    <text x="546" y="139" font-weight="bold" font-size="10" fill="#FF6969">네트워크</text>
+    <rect x="597" y="125" rx="8" ry="8" width="55" height="20" fill="#FFF2CE"/>
+    <text x="603" y="139" font-weight="bold" font-size="10" fill="#FF6969">면접 질문</text>
+    <text x="24" y="180" font-size="14" fill="#FFF2CE" text-anchor="start">2025-03-23</text>
+</svg>

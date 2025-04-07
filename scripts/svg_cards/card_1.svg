@@ -1,0 +1,17 @@
+
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+    <image href="https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/Tistory_card_for_readMe.png" x="0" y="0" width="100%" height="100%" />
+    <text x="24" y="40" font-size="14" font-weight="bold" fill="#FFF2CE" text-anchor="start">dalchoenroadhead.tistory.com</text>
+    <text x="24" y="80" font-size="22" font-weight="bold" fill="#FFF2CE" text-anchor="start">[성능 테스트] Jmeter로 시나리오 테스트 작성하기</text>
+    <rect x="24" y="125" rx="8" ry="8" width="63" height="20" fill="#FFF2CE"/>
+    <text x="30" y="139" font-weight="bold" font-size="10" fill="#FF6969">백엔드 개발</text>
+    <rect x="97" y="125" rx="8" ry="8" width="63" height="20" fill="#FFF2CE"/>
+    <text x="103" y="139" font-weight="bold" font-size="10" fill="#FF6969">jmeter</text>
+    <rect x="170" y="125" rx="8" ry="8" width="63" height="20" fill="#FFF2CE"/>
+    <text x="176" y="139" font-weight="bold" font-size="10" fill="#FF6969">성능 테스트</text>
+    <rect x="243" y="125" rx="8" ry="8" width="79" height="20" fill="#FFF2CE"/>
+    <text x="249" y="139" font-weight="bold" font-size="10" fill="#FF6969">시나리오 작성법</text>
+    <rect x="332" y="125" rx="8" ry="8" width="103" height="20" fill="#FFF2CE"/>
+    <text x="338" y="139" font-weight="bold" font-size="10" fill="#FF6969">시나리오 테스트 작성</text>
+    <text x="24" y="180" font-size="14" fill="#FFF2CE" text-anchor="start">2025-03-25</text>
+</svg>

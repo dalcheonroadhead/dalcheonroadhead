@@ -1,0 +1,23 @@
+
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+    <image href="https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/Tistory_card_for_readMe.png" x="0" y="0" width="100%" height="100%" />
+    <text x="24" y="40" font-size="14" font-weight="bold" fill="#FFF2CE" text-anchor="start">dalchoenroadhead.tistory.com</text>
+    <text x="24" y="80" font-size="22" font-weight="bold" fill="#FFF2CE" text-anchor="start">[TROUBLE SHOOTING]  2000이상의 부하지속 시 발생하는 Socket-Exception 에러 해결</text>
+    <rect x="24" y="125" rx="8" ry="8" width="63" height="20" fill="#FFF2CE"/>
+    <text x="30" y="139" font-weight="bold" font-size="10" fill="#FF6969">백엔드 개발</text>
+    <rect x="97" y="125" rx="8" ry="8" width="159" height="20" fill="#FFF2CE"/>
+    <text x="103" y="139" font-weight="bold" font-size="10" fill="#FF6969">connection pool 튜닝</text>
+    <rect x="266" y="125" rx="8" ry="8" width="63" height="20" fill="#FFF2CE"/>
+    <text x="272" y="139" font-weight="bold" font-size="10" fill="#FF6969">jmeter</text>
+    <rect x="339" y="125" rx="8" ry="8" width="55" height="20" fill="#FFF2CE"/>
+    <text x="345" y="139" font-weight="bold" font-size="10" fill="#FF6969">os 튜닝</text>
+    <rect x="404" y="125" rx="8" ry="8" width="143" height="20" fill="#FFF2CE"/>
+    <text x="410" y="139" font-weight="bold" font-size="10" fill="#FF6969">socket exception</text>
+    <rect x="557" y="125" rx="8" ry="8" width="63" height="20" fill="#FFF2CE"/>
+    <text x="563" y="139" font-weight="bold" font-size="10" fill="#FF6969">부하 테스트</text>
+    <rect x="630" y="125" rx="8" ry="8" width="55" height="20" fill="#FFF2CE"/>
+    <text x="636" y="139" font-weight="bold" font-size="10" fill="#FF6969">성능테스트</text>
+    <rect x="695" y="125" rx="8" ry="8" width="79" height="20" fill="#FFF2CE"/>
+    <text x="701" y="139" font-weight="bold" font-size="10" fill="#FF6969">스파이크 테스트</text>
+    <text x="24" y="180" font-size="14" fill="#FFF2CE" text-anchor="start">2025-03-23</text>
+</svg>
