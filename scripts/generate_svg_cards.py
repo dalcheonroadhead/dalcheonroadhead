@@ -59,33 +59,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# scripts/update_readme.py
-
-import os
-
-SVG_DIR = "svg_cards"
-README_PATH = "README.md"
-START_TAG = "<!-- BLOG-POST-START -->"
-END_TAG = "<!-- BLOG-POST-END -->"
-
-# 이미지 태그로 삽입
-svg_lines = []
-for filename in sorted(os.listdir(SVG_DIR)):
-    if filename.endswith(".svg"):
-        svg_url = f"https://raw.githubusercontent.com/dalcheonroadhead/{os.environ.get('GITHUB_REPOSITORY').split('/')[-1]}/main/{SVG_DIR}/{filename}"
-        svg_lines.append(f'<img src="{svg_url}" width="600" height="200"/>')
-
-with open(README_PATH, "r", encoding="utf-8") as f:
-    content = f.read()
-
-start = content.find(START_TAG)
-end = content.find(END_TAG)
-
-if start != -1 and end != -1:
-    new_block = START_TAG + "\n" + "\n".join(svg_lines) + "\n" + END_TAG
-    updated = content[:start] + new_block + content[end + len(END_TAG):]
-
-    with open(README_PATH, "w", encoding="utf-8") as f:
-        f.write(updated)
