@@ -6,6 +6,8 @@
 
 <h1 align='center'>📝 개발 일지 📝</h1>
 
+<div align = 'center'>
+
 <!-- BLOG-POST-START -->
 
     <a href="https://dalcheonroadhead.tistory.com/632" target="_blank">
@@ -33,3 +35,5 @@
     </a>
 
 <!-- BLOG-POST-END -->
+
+</div>
