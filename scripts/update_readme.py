@@ -20,9 +20,9 @@ for i, entry in enumerate(entries):
     link = escape(entry.link)
     svg_url = f"https://raw.githubusercontent.com/{repo_name}/main/scripts/{SVG_DIR}/card_{i+1}.svg"
     svg_lines.append(f'''
-        <a href="{link}" target="_blank">
-            <img src="{svg_url}" width="600" height="200"/>
-        </a>
+    <a href="{link}" target="_blank">
+        <img src="{svg_url}" width="600" height="200"/>
+    </a>
 ''')
 
 # README.md 내용 갱신
