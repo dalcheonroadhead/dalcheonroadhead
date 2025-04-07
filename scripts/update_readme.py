@@ -12,7 +12,7 @@ repo_name = os.environ.get("GITHUB_REPOSITORY", "dalcheonroadhead/svg-blog")
 svg_lines = []
 for filename in sorted(os.listdir(SVG_DIR)):
     if filename.endswith(".svg"):
-        svg_url = f"https://raw.githubusercontent.com/{repo_name}/main/{SVG_DIR}/{filename}"
+        svg_url = f"https://raw.githubusercontent.com/{repo_name}/main/scripts/{SVG_DIR}/{filename}"
         svg_lines.append(f'<img src="{svg_url}" width="600" height="200"/>')
 
 # README.md 내용 갱신
