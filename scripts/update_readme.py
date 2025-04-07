@@ -21,10 +21,11 @@ for i, entry in enumerate(entries):
     align = "left" if i % 2 == 0 else "right"
     svg_url = f"https://raw.githubusercontent.com/{repo_name}/main/scripts/{SVG_DIR}/card_{i+1}.svg"
     svg_lines.append(f'''
-<a href="{link}" target="_blank">
-    <img src="{svg_url}" width="600" height="200" align = "{align}"/>
-</a>
-<svg width="1" height="30" xmlns="http://www.w3.org/2000/svg"></svg>
+    <div>
+        <a href="{link}" target="_blank">
+            <img src="{svg_url}" width="600" height="200" align = "{align}"/>
+        </a>
+    </div>
 ''')
 
 # README.md 내용 갱신
