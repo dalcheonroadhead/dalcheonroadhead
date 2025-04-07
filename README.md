@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/header_2.png' width=100%/>
+<img src='https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/header_rounded_3.png' width=100%/>
 
 <h1 align='center'> 지나온 길 </h1>
 
