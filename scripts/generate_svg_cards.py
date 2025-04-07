@@ -24,9 +24,6 @@ print("[DEBUG] 파일 존재 여부:", os.path.exists(image_path))
 
 SVG_TEMPLATE = """
 <svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
-    <a href="{link}" target="_blank">
-        <rect x="0" y="0" width="600" height="200" fill="transparent"/>
-    </a>
     <image href="data:image/png;base64,{background_base64}" x="0" y="0" width="100%" height="100%" />
     <text x="24" y="40" font-size="14" font-weight="bold" fill="#FFF2CE" text-anchor="{anchor}">dalchoenroadhead.tistory.com</text>
     <text x="24" y="80" font-size="18" font-weight="bold" fill="#FFF2CE" text-anchor="{anchor}">{title}</text>
@@ -65,8 +62,7 @@ def main():
                 pub_date=date,
                 tags_svg=format_tags(tags, 24),
                 anchor="start",
-                background_base64 = background_base64,
-                link=escape(entry.link)
+                background_base64 = background_base64
             )
 
             filepath = os.path.abspath(os.path.join(SAVE_DIR, f"card_{i+1}.svg"))
