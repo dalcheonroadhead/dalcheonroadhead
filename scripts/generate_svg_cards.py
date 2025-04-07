@@ -17,6 +17,11 @@ base_path = os.path.dirname(__file__)
 image_path = os.path.join(base_path, "asset", "tistory_background.png")
 background_base64 = get_base64_image(image_path)
 
+print("[DEBUG] base_path:", base_path)
+print("[DEBUG] image_path:", image_path)
+print("[DEBUG] 파일 존재 여부:", os.path.exists(image_path))
+
+
 SVG_TEMPLATE = """
 <svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
     <a href="{link}" target="_blank">
