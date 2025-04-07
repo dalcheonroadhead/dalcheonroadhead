@@ -2,6 +2,7 @@ import feedparser
 import os
 from datetime import datetime
 from xml.sax.saxutils import escape
+import base64
 
 RSS_URL = "https://dalcheonroadhead.tistory.com/rss"
 SAVE_DIR = "svg_cards"
