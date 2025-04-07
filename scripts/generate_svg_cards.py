@@ -13,7 +13,7 @@ def get_base64_image(path):
     with open(path, "rb") as img:
         return base64.b64encode(img.read()).decode("utf-8")
 
-background_base64 = get_base64_image("scripts/asset/tistory_background.png")
+background_base64 = get_base64_image("asset/tistory_background.png")
 
 SVG_TEMPLATE = """
 <svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
@@ -55,7 +55,9 @@ def main():
                 title=title,
                 pub_date=date,
                 tags_svg=format_tags(tags, 24),
-                anchor="start"
+                anchor="start",
+                background_base64 = background_base64,
+                link = escape(entry.link)
             )
 
             filepath = os.path.abspath(os.path.join(SAVE_DIR, f"card_{i+1}.svg"))
