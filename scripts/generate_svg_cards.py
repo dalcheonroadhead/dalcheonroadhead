@@ -8,9 +8,15 @@ SAVE_DIR = "svg_cards"
 MAX_ITEMS = 5
 CARD_WIDTH = 600
 
+def get_base64_image(path):
+    with open(path, "rb") as img:
+        return base64.b64encode(img.read()).decode("utf-8")
+
+background_base64 = get_base64_image("scripts/asset/tistory_background.png")
+
 SVG_TEMPLATE = """
 <svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
-    <image href="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/asset/tistory_background.png" x="0" y="0" width="100%" height="100%" />
+    <image href="data:image/png;base64,{background_base64}" x="0" y="0" width="100%" height="100%" />
     <text x="{x}24" y="40" font-size="14" font-weight="bold" fill="#FFF2CE" text-anchor="{anchor}">dalchoenroadhead.tistory.com</text>
     <text x="{x}24" y="80" font-size="18" font-weight="bold" fill="#FFF2CE" text-anchor="{anchor}">{title}</text>
     {tags_svg}
