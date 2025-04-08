@@ -2,7 +2,13 @@
 
 <h1 align='center'> 지나온 길 </h1>
 
-<img src = 'https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/career_3.png' width = 100%/>
+<img src = 'https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/지나온 길.png' width = 100%/>
+
+<img src = 'https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/4.png' width = 100%/>
+
+<h1 align='center'> 수상 이력 </h1>
+
+![3](https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/3.png)
 
 <h1 align='center'>📝 개발 일지 📝</h1>
 
