@@ -14,6 +14,7 @@ def get_base64_image(path):
         return base64.b64encode(img.read()).decode("utf-8")
 
 base_path = os.path.dirname(__file__)
+svg_path = os.path.join(base_path, "svg_cards")
 image_path = os.path.join(base_path, "asset", "tistory_background.png")
 background_base64 = get_base64_image(image_path)
 
@@ -65,7 +66,7 @@ def main():
                 background_base64 = background_base64
             )
 
-            filepath = os.path.abspath(os.path.join(SAVE_DIR, f"card_{i+1}.svg"))
+            filepath = os.path.abspath(os.path.join(svg_path, f"card_{i+1}.svg"))
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(svg)
             print(f"[OK] SVG 생성 완료 → {filepath}")
