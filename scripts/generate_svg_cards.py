@@ -5,7 +5,6 @@ from xml.sax.saxutils import escape
 import base64
 
 RSS_URL = "https://dalcheonroadhead.tistory.com/rss"
-SAVE_DIR = "svg_cards"
 MAX_ITEMS = 5
 CARD_WIDTH = 600
 
@@ -44,7 +43,7 @@ def format_tags(tags, x_offset):
     return "\n    ".join(svg_tags)
 
 def main():
-    os.makedirs(SAVE_DIR, exist_ok=True)
+    os.makedirs(svg_path, exist_ok=True)
     feed = feedparser.parse(RSS_URL) # Parsing 하기 
 
     for i, entry in enumerate(feed.entries[:MAX_ITEMS]):
@@ -66,7 +65,7 @@ def main():
                 background_base64 = background_base64
             )
 
-            filepath = os.path.abspath(os.path.join(svg_path, f"card_{i+1}.svg"))
+            filepath = os.path.join(svg_path, f"card_{i+1}.svg")
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(svg)
             print(f"[OK] SVG 생성 완료 → {filepath}")
