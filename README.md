@@ -24,27 +24,27 @@
 
 <!-- BLOG-POST-START -->
 
-<a href="https://dalcheonroadhead.tistory.com/663" target="_blank">
+<a href="https://dalcheonroadhead.tistory.com/664" target="_blank">
     <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_1.svg" width="600" height="200"/>
 </a>
 
 
-<a href="https://dalcheonroadhead.tistory.com/662" target="_blank">
+<a href="https://dalcheonroadhead.tistory.com/663" target="_blank">
     <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_2.svg" width="600" height="200"/>
 </a>
 
 
-<a href="https://dalcheonroadhead.tistory.com/661" target="_blank">
+<a href="https://dalcheonroadhead.tistory.com/662" target="_blank">
     <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_3.svg" width="600" height="200"/>
 </a>
 
 
-<a href="https://dalcheonroadhead.tistory.com/660" target="_blank">
+<a href="https://dalcheonroadhead.tistory.com/661" target="_blank">
     <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_4.svg" width="600" height="200"/>
 </a>
 
 
-<a href="https://dalcheonroadhead.tistory.com/659" target="_blank">
+<a href="https://dalcheonroadhead.tistory.com/660" target="_blank">
     <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_5.svg" width="600" height="200"/>
 </a>
 
