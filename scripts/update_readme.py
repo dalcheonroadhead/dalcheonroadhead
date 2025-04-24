@@ -15,15 +15,26 @@ feed = feedparser.parse("https://dalcheonroadhead.tistory.com/rss")
 entries = feed.entries[:5]
 
 # SVG → PNG 변환 및 README에 들어갈 <img> 라인 준비
-svg_lines = []
+# SVG → PNG 변환 및 README에 들어갈 <img> 라인 준비 (2열 테이블로)
+svg_lines = ["<table>"]
 for i, entry in enumerate(entries):
+    if i % 2 == 0:
+        svg_lines.append("  <tr>")  # 새 줄 시작
+
     link = escape(entry.link)
     svg_url = f"https://raw.githubusercontent.com/{repo_name}/main/scripts/{SVG_DIR}/card_{i+1}.svg"
     svg_lines.append(f'''
-<a href="{link}" target="_blank">
-    <img src="{svg_url}" />
-</a>
-''')
+    <td align="center">
+        <a href="{link}" target="_blank">
+            <img src="{svg_url}" />
+        </a>
+    </td>
+    ''')
+
+    if i % 2 == 1 or i == len(entries) - 1:
+        svg_lines.append("  </tr>")  # 줄 끝
+
+svg_lines.append("</table>")
 
 # README.md 내용 갱신
 with open(README_PATH, "r", encoding="utf-8") as f:
