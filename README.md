@@ -1,6 +1,8 @@
 <h1 align='center'>Portfolio</h1>
 
-<p align = 'center'><a><img src='https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/spot_기술_보고서.png' align='center' width= 600px, height=200px/></a><a><img src='https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/울반기술보고서.png' align='center' width= 600px, height=200px/></a><a><img src='https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/walk-walk기술보고서.png' align='center' width= 600px, height=200px/></a></p>
+| ![이력서](https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/이력서.png) | [![SPOT](https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/spot_기술_보고서.png)]() |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![OurClass](https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/울반기술보고서.png)]() | [![](https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/walk-walk기술보고서.png)]() |
 
 
 
