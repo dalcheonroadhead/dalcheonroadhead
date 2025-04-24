@@ -5,7 +5,7 @@ from xml.sax.saxutils import escape
 import base64
 
 RSS_URL = "https://dalcheonroadhead.tistory.com/rss"
-MAX_ITEMS = 5
+MAX_ITEMS = 6
 CARD_WIDTH = 600
 
 def get_base64_image(path):

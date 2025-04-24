@@ -6,54 +6,46 @@
 
 <h1 align='center'>Dev Log</h1>
 
-<div align = 'center'>
 <!-- BLOG-POST-START -->
 <table>
   <tr>
-
     <td align="center">
         <a href="https://dalcheonroadhead.tistory.com/671" target="_blank">
             <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_1.svg" />
         </a>
     </td>
-
-
     <td align="center">
         <a href="https://dalcheonroadhead.tistory.com/670" target="_blank">
             <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_2.svg" />
         </a>
     </td>
-
   </tr>
   <tr>
-
     <td align="center">
         <a href="https://dalcheonroadhead.tistory.com/669" target="_blank">
             <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_3.svg" />
         </a>
     </td>
-
-
     <td align="center">
         <a href="https://dalcheonroadhead.tistory.com/668" target="_blank">
             <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_4.svg" />
         </a>
     </td>
-
   </tr>
   <tr>
-
     <td align="center">
         <a href="https://dalcheonroadhead.tistory.com/667" target="_blank">
             <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_5.svg" />
         </a>
     </td>
-
+    <td align="center">
+        <a href="https://dalcheonroadhead.tistory.com/666" target="_blank">
+            <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_6.svg" />
+        </a>
+    </td>
   </tr>
 </table>
 <!-- BLOG-POST-END -->
-
-</div>
 
 <h1 align = 'center'> Power Level </h1>
 
