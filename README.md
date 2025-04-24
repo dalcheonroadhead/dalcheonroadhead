@@ -1,19 +1,6 @@
 <h1 align='center'>Portfolio</h1>
 
-<div align = 'center'>
-	<a>
-    	<img src='https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/spot_기술_보고서.png' align='center' width= 600px, height=200px/>
-	</a>
-	<br/>    
-	<a>
-    	<img src='https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/울반+기술+보고서.png' align='center' width= 600px, height=200px/>
-  	</a>
-    <!--3번째 포트폴리오-->
-	<a>
-        <img src='https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/walk-walk+기술+보고서.png' align='center' width= 600px, height=200px/>
-    </a>   
-</div>
-
+<p align = 'center'><a><img src='https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/spot_기술_보고서.png' align='center' width= 600px, height=200px/></a><a><img src='https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/울반기술보고서.png' align='center' width= 600px, height=200px/></a><a><img src='https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/walk-walk기술보고서.png' align='center' width= 600px, height=200px/></a></p>
 
 
 
@@ -29,7 +16,6 @@
 <a href="https://dalcheonroadhead.tistory.com/670" target="_blank">
     <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_2.svg" width="600" height="200"/>
 </a>
-
 
 <a href="https://dalcheonroadhead.tistory.com/669" target="_blank">
     <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_3.svg" width="600" height="200"/>
