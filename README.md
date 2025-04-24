@@ -10,6 +10,7 @@
 
 <div align = 'center'>
 <!-- BLOG-POST-START -->
+
 <a href="https://dalcheonroadhead.tistory.com/671" target="_blank">
     <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_1.svg" width="600" height="200"/>
 </a>
@@ -18,6 +19,7 @@
 <a href="https://dalcheonroadhead.tistory.com/670" target="_blank">
     <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_2.svg" width="600" height="200"/>
 </a>
+
 
 <a href="https://dalcheonroadhead.tistory.com/669" target="_blank">
     <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_3.svg" width="600" height="200"/>
