@@ -1,6 +1,6 @@
-<img src ='https://github-widgetbox.vercel.app/api/profile?username=dalcheonroadhead&data=followers,repositories,stars,commits&theme=nautilus' width = 100% align='center'/>
 
-<h1 align='center'>📝 개발 일지 📝</h1>
+
+<h1 align='center'>Dev Log</h1>
 
 <div align = 'center'>
 <!-- BLOG-POST-START -->
@@ -33,7 +33,7 @@
 
 </div>
 
-<h1 align = 'center'> 전투력 측정 </h1>
+<h1 align = 'center'> Power Level </h1>
 
 <img src = 'https://github-profile-trophy.vercel.app/?username=dalcheonroadhead&row=1' width=100%/>
 
