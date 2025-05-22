@@ -10,36 +10,36 @@
 <table>
   <tr>
     <td align="center">
-        <a href="https://dalcheonroadhead.tistory.com/695" target="_blank">
+        <a href="https://dalcheonroadhead.tistory.com/697" target="_blank">
             <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_1.svg" />
         </a>
     </td>
     <td align="center">
-        <a href="https://dalcheonroadhead.tistory.com/694" target="_blank">
+        <a href="https://dalcheonroadhead.tistory.com/696" target="_blank">
             <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_2.svg" />
         </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-        <a href="https://dalcheonroadhead.tistory.com/693" target="_blank">
+        <a href="https://dalcheonroadhead.tistory.com/695" target="_blank">
             <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_3.svg" />
         </a>
     </td>
     <td align="center">
-        <a href="https://dalcheonroadhead.tistory.com/692" target="_blank">
+        <a href="https://dalcheonroadhead.tistory.com/694" target="_blank">
             <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_4.svg" />
         </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-        <a href="https://dalcheonroadhead.tistory.com/691" target="_blank">
+        <a href="https://dalcheonroadhead.tistory.com/693" target="_blank">
             <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_5.svg" />
         </a>
     </td>
     <td align="center">
-        <a href="https://dalcheonroadhead.tistory.com/690" target="_blank">
+        <a href="https://dalcheonroadhead.tistory.com/692" target="_blank">
             <img src="https://raw.githubusercontent.com/dalcheonroadhead/dalcheonroadhead/main/scripts/svg_cards/card_6.svg" />
         </a>
     </td>
