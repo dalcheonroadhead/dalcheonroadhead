@@ -49,7 +49,7 @@
 
 <h1 align = 'center'> Power Level </h1>
 
-<img src = 'https://github-profile-trophy.vercel.app/?username=dalcheonroadhead&row=1' width=100%/>
+<img src = 'https://github-profile-trophy.vercel.app/?username=dalcheonroadhead' width=100%/>
 
 | [<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsaos2081" alt="Solved.ac Profile" width=100%/>](https://solved.ac/wjsaos2081/) | <img src="https://github-readme-stats.vercel.app/api?username=dalcheonroadhead&show_icons=true&theme=tokyonight" alt="dalcheonroadhead's GitHub stats" width="100%"/> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
