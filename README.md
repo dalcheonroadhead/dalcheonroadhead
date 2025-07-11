@@ -3,6 +3,7 @@
 | [![이력서](https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/이력서.png)](https://github.com/dalcheonroadhead/dalcheonroadhead/blob/main/portfolio/%EC%A0%84%EC%88%98%EB%AF%BC_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf) | [![2spot+기술+보고서](https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/2spot+기술+보고서.png)](https://github.com/dalcheonroadhead/spot-be) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![포트폴리오마크](https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/포트폴리오마크.png)](https://github.com/dalcheonroadhead/dalcheonroadhead/blob/main/portfolio/%EC%A0%84%EC%88%98%EB%AF%BC_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) | [![spot테스트보고서](https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-04/spot테스트보고서.png)](https://github.com/6-SPOT/spot-be/wiki) |
+| [![Tistory_card_for_readMe (1).png](https://raw.githubusercontent.com/dalcheonroadhead/img-cloud/main/2025-06/Tistory_card_for_readMe%20(1).png)](https://oval-guanaco-139.notion.site/22b49df8c47d80648d75e87bbcec6365?v=22c49df8c47d808ea0d1000cc0721d92) |                                                              |
 
 <h1 align='center'>Dev Log</h1>
 
